@@ -63,42 +63,6 @@ The program will show you:
 
 ---
 
-## 🎤 PRESENTATION TALKING POINTS
-
-### Opening (30 seconds)
-"Arizona has 360+ days of sunshine per year but many schools still pay huge electricity bills. We created an optimization model to deploy $5 million in solar panels across Arizona schools to maximize student impact, energy savings, and environmental benefit."
-
-### The Problem (30 seconds)
-"Arizona schools spend millions on electricity. Solar panels could save money AND teach students about renewable energy, but we have limited budget. Which schools should get solar panels first?"
-
-### Our Solution (1 minute)
-"We built a linear programming optimization model using:
-1. Real school data - 100+ schools across 10 counties
-2. NREL solar irradiance data - Arizona's incredible sun potential
-3. Smart constraints - budget limit + fairness across counties
-4. Multiple objectives - maximize students helped + money saved + ROI"
-
-### The Results (1 minute)
-"Our model selected 73 optimal schools that:
-- Impact 65,000+ students across ALL Arizona counties
-- Generate 45 million kWh per year - enough for 4,100 homes
-- Save $5.8 million annually - pays for itself in under 1 year!
-- Reduce 20,000 tons of CO2 - like planting 330,000 trees
-- Ensure every county gets at least 20% coverage for fairness"
-
-### Why It's Practical (30 seconds)
-"This isn't just theory. We used:
-- Real 2024 Arizona solar installation costs ($2,500/kW)
-- Actual APS/SRP electricity rates ($0.13/kWh)
-- Real available budget ($5M from state energy initiatives)
-- Proven solar technology with 18% efficiency
-- Schools in every county from Phoenix to Flagstaff"
-
-### Closing (20 seconds)
-"This helps students learn in cooler buildings, saves taxpayer money, protects the environment, and prepares Arizona for a clean energy future. Thank you!"
-
----
-
 ## 📈 CHARTS EXPLANATION
 
 Your `optimization_results.png` has 6 charts:
